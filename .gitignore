@@ -1,0 +1,48 @@
+# =====================
+# Python
+# =====================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# =====================
+# Virtual Environment
+# =====================
+
+venv/
+.env
+.venv/
+
+
+# =====================
+# Dataset
+# =====================
+
+# Raw datasets
+data/*.xls
+data/*.xlsx
+data/*.csv
+
+
+# =====================
+# Output
+# =====================
+
+# Generated analysis results
+output/*.csv
+
+
+# =====================
+# Jupyter Notebook
+# =====================
+
+.ipynb_checkpoints/
+
+
+# =====================
+# VS Code
+# =====================
+
+.vscode/
