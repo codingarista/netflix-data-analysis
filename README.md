@@ -13,6 +13,22 @@ This project demonstrates an end-to-end data analysis workflow, including:
 - Business intelligence dataset preparation
 
 
+## Focus areas/專案重點:
+
+- End-to-end data pipeline design  
+  端到端資料分析流程設計
+
+- Data preprocessing  
+  資料清理與前處理流程
+
+- Feature engineering  
+  特徵工程設計與資料轉換
+
+- BI-ready dataset generation  
+  建立可供商業智慧分析（BI）使用的分析資料集
+
+
+
 ---
 
 # Project Overview
@@ -390,17 +406,4 @@ Built with:
 - Git
 
 
-Focus areas/專案重點:
-
-- End-to-end data pipeline design  
-  端到端資料分析流程設計
-
-- Data preprocessing  
-  資料清理與前處理流程
-
-- Feature engineering  
-  特徵工程設計與資料轉換
-
-- BI-ready dataset generation  
-  建立可供商業智慧分析（BI）使用的分析資料集
 
